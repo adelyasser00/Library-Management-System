@@ -1,0 +1,4 @@
+1,essam,12345,essam..@yahoo.com,zamalek,cairo,012345678901,3
+2,ziad,12345,ziad_king@hotmail.com,cleopartra,alexandria,904-565-3422,1
+3,wael,12345,mostafa@gmail.com,12,alexandria,123456789,1
+4,karim,12345,karim@hotmail.com,smoha,gaza,123456789,0

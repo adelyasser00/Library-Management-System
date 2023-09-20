@@ -1,0 +1,7 @@
+1,K@1,Java for programmers,PhD Hill,Oxford,7,3,8,5,2021
+2,K@2,C for programmers,Ritchie,Microsoft,21,1,8,5,2021
+3,K@3,Python for machine learning,Alex,Chicago UNI,49,1,8,5,2021
+4,K@4,Harry Potter,J K rowling,UK,150,0,8,5,2021
+5,K@5,Pathology,Moustafa Wael,Oxford,200,0,8,5,2021
+6,K@6,ship stability,DR Karim Habash,Oxford,399,0,13,5,2021
+7,K@7,civil construction basics,Dr Yara Morsy,TUM,1000,0,13,5,2021

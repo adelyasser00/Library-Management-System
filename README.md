@@ -1,1 +1,3 @@
 # Library-Management-System
+Java application to be deployed in libraries where users can browse and borrow books and return them and librarians have adminstrative tools to track all books and all borrowed books and calculate fees on borrowed books that are past due for return with neat GUI.
+Developed in Java for Programming II course (Object Oriented Programming) at Faculty of Engineerin, Alexandria University under supervision of Prof. Dr. Mohamed Kholief

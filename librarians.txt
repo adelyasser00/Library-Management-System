@@ -1,0 +1,2 @@
+1,mohamed,123456,mohamed@alexu.edu.eg,Sidi Beshr,Alexandria,0123456789
+2,adel,123456,adel.yasser@gmail.com,Moharam Bek,Alexandria,+2010987654321
